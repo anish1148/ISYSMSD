@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
-    color: #333;
+    color: #240202;
   }
   
   /* Header */
@@ -34,7 +34,7 @@ body {
   /* Sections */
   section {
     padding: 2em;
-    background-color: #fff;
+    background-color: #716e6e;
     margin: 1em auto;
     width: 80%;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
